@@ -21,4 +21,4 @@ Estudante de **Desenvolvimento de Sistemas** no SENAI, em Belo Horizonte (MG), c
 Conquistar uma oportunidade de estágio ou aprendizagem na área de tecnologia para aplicar o que aprendo e continuar evoluindo.
 
 ## 📫 Contato
-[LinkedIn](www.linkedin.com/in/sander-emanuel)
+[LinkedIn]([www.linkedin.com/in/sander-emanuel](https://www.linkedin.com/in/sander-carvalho-1b3044300))
