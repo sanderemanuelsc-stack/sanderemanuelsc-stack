@@ -1,16 +1,24 @@
-## Hi there 👋
+# Olá, eu sou o Sander 👋
 
-<!--
-**sanderemanuelsc-stack/sanderemanuelsc-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Desenvolvimento de Sistemas** no SENAI, em Belo Horizonte (MG), começando minha jornada em tecnologia.
 
-Here are some ideas to get you started:
+## 📚 O que estou estudando
+- HTML, CSS e JavaScript
+- Lógica de programação
+- Introdução à cibersegurança
+- Git e GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Certificações
+- **Introdução à Cibersegurança** — Cisco Networking Academy (Senai BH CETEL César Rodrigues), 2026
+- **Postura e Imagem Profissional** — Fundação Bradesco, 2026
+
+## 🛠️ Projetos
+- [Gerenciador de Tarefas](https://github.com/sanderemanuelsc-stack/gerenciador-de-tarefas): lista de tarefas com prioridades e filtros
+- [Calculadora de Sub-redes](https://github.com/sanderemanuelsc-stack/calculadora-sub-redes): cálculo de redes IPv4 feito como estudo complementar
+- [Controle de Gastos](https://github.com/sanderemanuelsc-stack/controle-de-gastos): receitas, despesas e gráfico por categoria
+
+## 🎯 Objetivo
+Conquistar uma oportunidade de estágio ou aprendizagem na área de tecnologia para aplicar o que aprendo e continuar evoluindo.
+
+## 📫 Contato
+[LinkedIn](https://www.linkedin.com/in/sander-carvalho-1b3044300)
